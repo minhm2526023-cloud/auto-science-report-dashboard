@@ -1,4 +1,3 @@
-%%writefile app.py
 import os
 import platform
 import gradio as gr
